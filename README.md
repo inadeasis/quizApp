@@ -1,7 +1,3 @@
 # quizApp
-<<<<<<< HEAD
 
-I have editted the app
-=======
-Hello world
->>>>>>> origin
+This is another sample edit to make sure things work
